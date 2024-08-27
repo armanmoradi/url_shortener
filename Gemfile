@@ -33,6 +33,7 @@ gem "jbuilder"
 gem 'clipboard-rails'
 
 
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
@@ -79,3 +80,5 @@ end
 
 gem "chartkick", "~> 5.0"
 gem "groupdate", "~> 6.4"
+
+gem "sucker_punch", "~> 3.2"
