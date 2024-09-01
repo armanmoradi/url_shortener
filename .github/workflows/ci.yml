@@ -1,7 +1,9 @@
+name: Tests
+
 permissions:
   contents: read
-  
-name: Tests
+  packages: write
+
 
 on:
   pull_request:
